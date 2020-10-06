@@ -40,7 +40,6 @@ function displayWeatherCondition(response) {
 }
 
 function searchCity(city) {
-  event.preventDefault();
   let units = "metric";
 
   let apiKey = "34ab83f78081d8121e2f9a19e2f4db72";

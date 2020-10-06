@@ -1,0 +1,47 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  color: black;
+  display: block;
+  font-size: 30px;
+  font-weight: 100;
+  height: 28.6667px;
+  line-height: 28.8px;
+  text-align: left;
+  width: 618px;
+  margin: 0 0 30px;
+}
+
+.day {
+  color: rgb(70, 67, 67);
+  display: block;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 28px;
+  text-align: left;
+  position: relative;
+  left: -10px;
+}
+
+.weather {
+  color: rgb(70, 67, 67);
+  display: block;
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 28px;
+  text-align: left;
+  position: relative;
+  left: 15px;
+}
+
+ul {
+  list-style: none;
+  color: rgb(70, 67, 67);
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+}

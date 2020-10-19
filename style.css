@@ -36,12 +36,15 @@ h1 {
   left: 15px;
 }
 
-ul {
+li {
   list-style: none;
   color: rgb(70, 67, 67);
   font-size: 14px;
   font-weight: 100;
   line-height: 20px;
+}
+
+ul {
   margin: 0;
   padding: 0;
 }
